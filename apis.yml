@@ -27,11 +27,11 @@ description: DCHQ (Data Center HQ) was a cloud automation and Docker container m
   of San Francisco, offering both a hosted PaaS (DCHQ.io) and self-hosted on-premise editions for modeling,
   deploying, and managing container-based applications across AWS, Azure, Google Cloud, Rackspace, and
   OpenStack. The platform covered application modeling (Docker Compose / JSON), infrastructure automation,
-  multi-tenant governance and access controls, and lifecycle management including monitoring, backup, and
-  auto-scaling, with integrations for Docker, GitHub, and Jenkins. The company is now defunct — its
-  primary domain (dchq.co) no longer resolves and dchq.io serves a frozen 2020 marketing snapshot with no
-  live developer portal, API reference, or machine-readable API surface. This profile is retained as a
-  historical company record; no live API artifacts were available to enrich.
+  multi-tenant governance and access controls, and lifecycle management including monitoring, backup,
+  and auto-scaling, with integrations for Docker, GitHub, and Jenkins. The company is now defunct — its
+  primary domain (dchq.co) no longer resolves and dchq.io serves a frozen 2020 marketing snapshot with
+  no live developer portal, API reference, or machine-readable API surface. This profile is retained as
+  a historical company record; no live API artifacts were available to enrich.
 url: https://raw.githubusercontent.com/api-evangelist/dchq/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -42,7 +42,7 @@ x-tier-reason: portfolio-lead
 x-status: defunct
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-18'
+modified: '2026-09-15'
 tags:
 - Company
 - Containers
@@ -52,6 +52,7 @@ tags:
 - DevOps
 - Application Deployment
 - Platform-as-a-Service
+- Defunct
 tags_raw:
 - Company
 - Containers
