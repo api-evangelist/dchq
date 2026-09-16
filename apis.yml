@@ -42,7 +42,7 @@ x-tier-reason: portfolio-lead
 x-status: defunct
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-09-15'
+modified: '2026-09-16'
 tags:
 - Company
 - Containers
@@ -52,6 +52,7 @@ tags:
 - DevOps
 - Application Deployment
 - Platform-as-a-Service
+- Defunct
 tags_raw:
 - Company
 - Containers
@@ -61,6 +62,7 @@ tags_raw:
 - DevOps
 - Application Deployment
 - PaaS
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
